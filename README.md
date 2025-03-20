@@ -13,5 +13,5 @@ jobs:
       - name: Badges - Readme
         uses: THOMASSCUOLA/badge-readme@main
         with:       
-          CREDLY_USER: < THOMAS TARTARI > # optional, but default will use the same from github
+          CREDLY_USER: < thomas-tartari > # optional, but default will use the same from github
 <!--END_SECTION:badges-->
